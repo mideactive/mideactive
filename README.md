@@ -5,7 +5,7 @@
 👋Hi there, my name is Olumide.
 </div>
 <hr>
-✨ I'm a software engineering student of ALX.
+✨ I'm a software engineering student of ALX.<br>
 ✨ Within the past few months, i can boldly say i have greatly improved my skills.
 <!--
 **mideactive/mideactive** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
