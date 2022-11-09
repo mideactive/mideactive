@@ -2,9 +2,11 @@
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 <div align="center">
-Hi there! 👋 My name is Olumide.
+👋Hi there, my name is Olumide.
 </div>
 <hr>
+✨ I'm a software engineering student of ALX.
+✨ Within the past few months, i can boldly say i have greatly improved my skills.
 <!--
 **mideactive/mideactive** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
