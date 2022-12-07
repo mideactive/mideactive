@@ -6,7 +6,11 @@
 </div>
 <hr>
 ✨ I'm a software engineering student of ALX.<br>
-✨ Within the past few months, i can boldly say i have greatly improved my skills.
+✨ Within the past few months as alx student, i can boldly say i have greatly improved my skills.
+✨ I have the ability to be creative, and can dig really deep to get the job done.
+✨ I'm confident, i'll put in a good work if given the opportunity to collaborate on a project.
+✨ Please, holla at me any!
+📫 [linkedin](https://www.linkedin.com/in/olumide-jenyo-2061b398/) [twitter](https://twitter.com/ibaka24News)
 <!--
 **mideactive/mideactive** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
