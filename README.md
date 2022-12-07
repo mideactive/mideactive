@@ -13,11 +13,13 @@
 
 ✨ I'm confident, i'll put in a good work if given the opportunity to collaborate on a project.
 
-✨ Please, holla at me any!
+✨ Please, holla at me our boy😄😄😄😄
 
 📫[linkedin](https://www.linkedin.com/in/olumide-jenyo-2061b398/)
 
 📫[twitter](https://twitter.com/ibaka24News)
+
+Email:- jenyoolumide@yahoo.com
 <!--
 **mideactive/mideactive** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
