@@ -13,6 +13,8 @@
 
 ✨ I'm confident, i'll put in a good work if given the opportunity to collaborate on a project.
 
+✨ Plus, i'm supper fun to work with 😄😄😄
+
 ✨ Please, holla at me our boy😄😄😄😄
 
 📫[linkedin](https://www.linkedin.com/in/olumide-jenyo-2061b398/)
