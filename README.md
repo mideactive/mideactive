@@ -17,7 +17,7 @@
 
 ✨ Please, holla at me our boy😄😄😄😄
 
-📫[linkedin]<a href="https://www.linkedin.com/in/olumide-jenyo-2061b398" target="_blank"><img src="https://www.linkedin.com/in/olumide-jenyo-2061b398/button.png" alt="Button" width="200" height="50" color="green"></a>
+📫[linkedin]<a href="https://www.linkedin.com/in/olumide-jenyo-2061b398" target="_blank" width="200" height="50" style ="background-color:green"></a>
 
 📫[twitter](https://twitter.com/ibaka24News)
 
