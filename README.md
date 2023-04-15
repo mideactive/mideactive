@@ -20,7 +20,7 @@
 <a href="https://www.linkedin.com/in/olumide-jenyo-2061b398" target="_blank"><img src="https://www.pagetraffic.com/blog/wp-content/uploads/2022/09/latest-linkedin-logo-1-1536x806.png" alt="Button" width="80" height="30" style="border-radius:5px"></a> <a href="https://twitter.com/ibaka24News" target="_blank"><img src="https://freepngimg.com/thumb/twitter/8-2-twitter-png-hd.png" alt="Button" width="80" height="30" style="border-radius:5px"></a>
 
 
-Email:- jenyoolumide@yahoo.com
+<img src="https://cdn0.iconfinder.com/data/icons/apple-apps/100/Apple_Mail-512.png" alt="Button" width="80" height="30" style="border-radius:5px">:- jenyoolumide@yahoo.com
 <!--
 **mideactive/mideactive** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
