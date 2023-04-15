@@ -19,7 +19,8 @@
 
 📫[linkedin](https://www.linkedin.com/in/olumide-jenyo-2061b398)
 
-📫[twitter](https://twitter.com/ibaka24News)
+📫[twitter]()<a href="https://twitter.com/ibaka24News" target="_blank"><img src="https://www.pagetraffic.com/blog/wp-content/uploads/2022/09/latest-linkedin-logo-1-1536x806.png" alt="Button" width="200" height="50"></a>
+
 
 Email:- jenyoolumide@yahoo.com
 <!--
